@@ -1,6 +1,8 @@
 v0.3.4
 ------
 - Updated bundled MM to 2.6.13
+- Fixed CTT patch doing things it shouldn't
+- Fixed CLS patch not defining surface passability for 1.25m crew hub
 
 v0.3.3
 ------
