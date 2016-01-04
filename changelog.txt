@@ -1,0 +1,73 @@
+v0.3.4
+------
+- Updated bundled MM to 2.6.13
+
+v0.3.3
+------
+- Updated bundled MM to 2.6.5
+- Added Fraz86's contract patches: new cupola modules count as cupolas for contracts, and base contracts will occasionally request a hab module
+- Adjusted colliders on SCATTER airlock
+- Added placeholder internal to both airlock parts
+- Fixed a texture load error on the 2.5-3.75m short adapter
+- Fixed some incorrect CLS patches
+- Fixed missing breakingTorque on 2.5m attach node
+- Fixed smoothing error on 2.5m crew hub
+- Added missing mipmaps to .dds textures
+- Fixed 3.75m cupola not defining a VesselType
+
+v0.3.2
+------
+- CTT 2.0 fix
+- Fixed RGB-2 tech node
+- Fixed missing CLS entries for some 2.5m parts
+- Fixed hole in RGB-2 mesh
+
+v0.3.1
+------
+- Fixed missing animation on PTD-01 causing issues
+- Fixed control orientation of EVACU8 airlock
+- Fixed heat and crash tolerances of all parts
+
+v0.3.0
+------
+- KSP 1.0 update
+- Temporarily deprecated CTT support until CTT is upgraded
+- Rebalanced some costs and tech tree locations
+- Significant optimization and rearrangement of mod
+- Improved clickability of hatches for crew transfer
+- Fixed orientation of components on the PLX-2 Conical Storage Container and PLX-1 Habitation Module
+- Fixed CLS compatibility patch
+- Moved airlocks to Utility tab
+- Increased the size of the RGB-2 Station Core to fit 2.5m crew tubes
+- RGB-2 and RGB-003 now both provide Level 2 SAS and contain a  respectable amount of Monopropellant (costs adjusted)
+- RGB-2 now requires more power, but has more powerful reaction wheels and more electrical storage
+- Remodeled PLX-9 Cupola module
+- PLX-9 now has 50 monopropellant
+- Added PPD-A2 and PPD-A4 2.5m crew tubes
+- Added DISPERSE Service Airlock (2.5m)
+- Added Pressurized CZ-15 Radial Attachment Point (2.5m)
+- Added PPD-HEX (2.5m) and PTD-HEX (1.25m) 6-way station hubs
+
+
+v0.2.1
+------
+- Fixed a collider on the 2.5m station hub
+- Added support for the Community Tech Tree
+
+v0.2.0
+------
+- Updated for KSP 0.25
+- Changed part cfg file names (no changes to actual part names)
+- Converted all textures to mbm format (decreases memory use)
+- Adjusted some part costs, reduced mass of habitation modules
+- Improved IVAs for the PPD-24 and PPD-20 modules
+- Fixed SCATTER Airlock's broken collider
+- Added PPD-PXL Adapter (3.75 to 2.5 m)
+- Added PXL-2 Pressurized Conical Storage Container (3.75 to 2.5 m)
+- Added PXL-1 'Hostel' Deep-Space Habitation Module (3.75 m)
+- Added PXL-9 Extra-Planetary Octo-Aperture Module (3.75 m)
+- Added a ModuleManager patch to add Connected Living Spaces compatibility to all passable parts. ModuleManager is not included in the download
+
+v0.1.0
+------
+- Initial Release
