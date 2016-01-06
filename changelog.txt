@@ -4,7 +4,9 @@ v0.3.4
 - Added MiniAVC version checking
 - Updated bundled MM to 2.6.13
 - Airlocks can now store/retrieve science data
+
 - Adjusted thermal parameters to match stock values
+
 - Fixed SCATTER airlock collider
 - Fixed experience not being saved when Kerbals were returned in certain modules
 - Fixed ability of large crewed modules to store and retrieve science data
