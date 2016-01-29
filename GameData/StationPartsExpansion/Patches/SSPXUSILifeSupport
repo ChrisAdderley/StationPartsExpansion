@@ -1,7 +1,7 @@
 // USI Life Support habitat functions
 
 //PXL-9 Extra-Planetary Octo-Aperture Module
-@PART[crewpod-cupola-375]
+@PART[crewpod-cupola-375]:NEEDS[USILifeSupport]
 {
 	MODULE
 	{
@@ -24,7 +24,7 @@
 }
 
 //PPD-20 Shanty Habitation Module
-@PART[crewpod-habitation-25]
+@PART[crewpod-habitation-25]:NEEDS[USILifeSupport]
 {
 	MODULE
 	{
@@ -46,7 +46,7 @@
 }
 
 //PXL-1 'Hostel' Deep-Space Habitation Module
-@PART[crewpod-habitation-375]
+@PART[crewpod-habitation-375]:NEEDS[USILifeSupport]
 {
 	MODULE
 	{
@@ -68,7 +68,7 @@
 }
 
 //PPD-24 Observation Module
-@PART[crewpod-observation-25]
+@PART[crewpod-observation-25]:NEEDS[USILifeSupport]
 {
 	MODULE
 	{
@@ -90,7 +90,7 @@
 }
 
 //PXL-2 Pressurized Conical Storage Container
-@PART[crewtube-25-375-1]
+@PART[crewtube-25-375-1]:NEEDS[USILifeSupport]
 {
 	MODULE
 	{
