@@ -1,5 +1,5 @@
 ==============================
-STATION PARTS EXPANSION v0.3.4
+STATION PARTS EXPANSION v0.4.0
 ==============================
 
 This is a pack for expanding the line of stockalike parts useful for space stations and surface bases.
