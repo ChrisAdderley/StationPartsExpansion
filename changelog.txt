@@ -1,3 +1,9 @@
+v0.4.1
+------
+- KSP 1.2
+- Crew hubs can act as probe control points
+- Large crew containers (Shanty, Hostel) can level up kerbals
+
 v0.4.0
 ------
 - KSP 1.1.2
