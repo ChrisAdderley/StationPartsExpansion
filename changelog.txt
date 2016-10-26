@@ -1,3 +1,8 @@
+v0.4.2
+------
+- Replaced outdated version of ModuleManager
+- Tied all parts that have cabin lights to Light action group
+
 v0.4.1
 ------
 - KSP 1.2
@@ -7,7 +12,7 @@ v0.4.1
 - Reduced mass of docking modules by 25%
 - Fixed numerous holes in the PPD-24 Observation Module IVA
 - Fixed large cupola's black IVA mesh
-- Fixed Shanty's offset IVA blocking mesh 
+- Fixed Shanty's offset IVA blocking mesh
 
 v0.4.0
 ------
