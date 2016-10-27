@@ -14,6 +14,14 @@ When upgrading from an older version of StationPartsExpansion, it is recommended
 
 Please note that this pack is VERY sensitive to install location. Do not move or rename the StationPartsExpansion folder or any of the contents
 
+============
+KSP-MINI-AVC
+============
+
+This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745). 
+If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. 
+For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
+
 =========
 LICENSING
 =========
