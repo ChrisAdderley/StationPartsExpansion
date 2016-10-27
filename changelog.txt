@@ -2,6 +2,7 @@ v0.4.2
 ------
 - Replaced outdated version of ModuleManager
 - Tied all parts that have cabin lights to Light action group
+- Adjusted the USI-LS patch (not balanced yet though)
 
 v0.4.1
 ------
