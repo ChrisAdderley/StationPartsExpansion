@@ -1,8 +1,9 @@
 v0.4.2
 ------
+- Marked for KSP 1.2.1
 - Replaced outdated version of ModuleManager
 - Tied all parts that have cabin lights to Light action group
-- Adjusted the USI-LS patch (not balanced yet though)
+- Adjusted the USI-LS patch (thanks tarheel1999)
 
 v0.4.1
 ------
