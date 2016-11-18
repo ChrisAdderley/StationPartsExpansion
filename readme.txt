@@ -1,8 +1,18 @@
 ==============================
-STATION PARTS EXPANSION v0.4.1
+STATION PARTS EXPANSION v0.4.2
 ==============================
 
 This is a pack for expanding the line of stockalike parts useful for space stations and surface bases.
+
+============
+DEPENDENCIES
+============
+
+Required:
+- ModuleManager (2.7.4)
+
+Optional
+- Community Tech Tree (v2.2+)
 
 ============
 INSTALLATION
@@ -18,8 +28,8 @@ Please note that this pack is VERY sensitive to install location. Do not move or
 KSP-MINI-AVC
 ============
 
-This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745). 
-If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. 
+This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745).
+If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
 For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
 
 =========
