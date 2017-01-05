@@ -1,5 +1,5 @@
 ==============================
-STATION PARTS EXPANSION v0.4.2
+STATION PARTS EXPANSION v0.4.3
 ==============================
 
 This is a pack for expanding the line of stockalike parts useful for space stations and surface bases.
@@ -9,7 +9,7 @@ DEPENDENCIES
 ============
 
 Required:
-- ModuleManager (2.7.4)
+- ModuleManager (2.7.5)
 
 Optional
 - Community Tech Tree (v2.2+)
