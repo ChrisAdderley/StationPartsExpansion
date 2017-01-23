@@ -1,3 +1,9 @@
+v0.4.3
+------
+- Marked for KSP 1.2.2
+- Updated bundled MM to 2.7.5
+- Corrected a few spelling errors
+
 v0.4.2
 ------
 - Marked for KSP 1.2.1
