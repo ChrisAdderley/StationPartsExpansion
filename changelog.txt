@@ -1,3 +1,7 @@
+v0.5.0
+------
+- Updated EPL patch (thanks blackliner)
+
 v0.4.4
 ------
 - Fixed .version file download link
