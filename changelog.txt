@@ -1,3 +1,7 @@
+v0.5.1
+------
+- Spanish Translation courtesy of forum user fitiales
+
 v0.5.0
 ------
 - KSP 1.3
