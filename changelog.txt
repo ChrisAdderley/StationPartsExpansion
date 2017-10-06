@@ -1,3 +1,8 @@
+v0.5.2
+------
+- KSP 1.3.1
+- Final update
+
 v0.5.1
 ------
 - Spanish Translation courtesy of forum user fitiales
