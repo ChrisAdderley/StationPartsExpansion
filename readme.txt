@@ -9,6 +9,7 @@ DEPENDENCIES
 ============
 
 Required:
+- NearFutureProps (0.2.0)
 - ModuleManager (2.8.1)
 
 Optional
