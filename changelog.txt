@@ -1,3 +1,10 @@
+v0.5.2
+------
+- KSP 1.3.1
+- Final update
+- Updated NFProps to 0.2.0
+-- Better in every way
+
 v0.5.1
 ------
 - Spanish Translation courtesy of forum user fitiales
